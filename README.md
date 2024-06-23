@@ -5,12 +5,9 @@ Este es un proyecto de muestra creado con Expo y React Native. La aplicación in
 
 ## Requisitos
 - Node.js (versión 18 o superior)
-- Expo CLI
-- npm o yarn
+- npm i
 
 ## Instalación
 1. **Clonar el repositorio BackEnd**
    ```sh
-   BackEnd:
-https://github.com/EFFS-Software/DMI-BackEnd-ExamII.git
-![image](https://github.com/effs777/DMI-FrontEnd-ExamII/assets/17178530/712c1951-d302-4dce-aca4-3d4acefa1294)
+   BackEnd: https://github.com/EFFS-Software/DMI-BackEnd-ExamII.git
