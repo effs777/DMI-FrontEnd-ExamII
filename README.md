@@ -1,4 +1,4 @@
-# Proyecto de Expo en React Native
+# Proyecto de Examen II DMI en Expo en React Native
 
 ## Descripción
 Este es un proyecto de muestra creado con Expo y React Native. La aplicación incluye una pantalla de registro de producto y una pantalla que desglosa el contenido de la tabla productos con la opción de eliminar.
